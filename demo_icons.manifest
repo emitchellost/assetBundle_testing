@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3136851593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5065795a0392ca7e94693f418c4e1139
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Demo/Icons/Tables/T2442.png
+- Assets/Resources/Demo/Icons/Storage/ST2424L.png
+- Assets/Resources/Demo/Icons/Tables/T33.png
+- Assets/Resources/Demo/Icons/Storage/ST2424R.png
+- Assets/Resources/Demo/Icons/Seating/250BS.png
+- Assets/Resources/Demo/Icons/Seating/6250BS.png
+- Assets/Resources/Demo/Icons/Seating/6250BS-24.png
+- Assets/Resources/Demo/Icons/Tables/T2430.png
+- Assets/Resources/Demo/Icons/Storage/ST1836.png
+- Assets/Resources/Demo/Icons/Storage/ST2118.png
+- Assets/Resources/Demo/Icons/Tables/T2424.png
+- Assets/Resources/Demo/Icons/Storage/ST1830.png
+- Assets/Resources/Demo/Icons/Tables/T66.png
+- Assets/Resources/Demo/Icons/Storage/ST4232.png
+- Assets/Resources/Demo/Icons/Tables/T2413.png
+- Assets/Resources/Demo/Icons/Tables/T2448.png
+- Assets/Resources/Demo/Icons/Seating/250.png
+- Assets/Resources/Demo/Icons/Seating/250BS-24.png
+Dependencies: []

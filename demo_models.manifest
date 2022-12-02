@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 4253228377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b21b2ca47e91b264f9e66dc5b0bfe2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e7e96e7d346277352c91e4d812b003ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Demo/Models/Seating/250BS.fbx
+- Assets/Resources/Demo/Models/Storage/ST4232.fbx
+- Assets/Resources/Demo/Models/Tables/T2424.fbx
+- Assets/Resources/Demo/Models/Tables/T2413.fbx
+- Assets/Resources/Demo/Models/Storage/ST1836.fbx
+- Assets/Resources/Demo/Models/Storage/ST2424R.fbx
+- Assets/Resources/Demo/Models/Tables/T2448.fbx
+- Assets/Resources/Demo/Models/Tables/T66.fbx
+- Assets/Resources/Demo/Models/Tables/T2430.fbx
+- Assets/Resources/Demo/Models/Seating/250BS-24.fbx
+- Assets/Resources/Demo/Models/Seating/6250BS-24.fbx
+- Assets/Resources/Demo/Models/Seating/6250BS.fbx
+- Assets/Resources/Demo/Models/Tables/T2442.fbx
+- Assets/Resources/Demo/Models/Storage/ST2118.fbx
+- Assets/Resources/Demo/Models/Storage/ST1830.fbx
+- Assets/Resources/Demo/Models/Tables/T33.fbx
+- Assets/Resources/Demo/Models/Storage/ST2424L.fbx
+- Assets/Resources/Demo/Models/Seating/250.fbx
+Dependencies: []
