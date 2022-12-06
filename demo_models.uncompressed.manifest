@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 88296098
+CRC: 2578466563
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4094f6bb624f2057267aaca7d6df3c5a
+    Hash: 7347d5bcdd9b0fc79f34f6f3d430745b
   TypeTreeHash:
     serializedVersion: 2
     Hash: e7e96e7d346277352c91e4d812b003ae
@@ -28,8 +28,21 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Resources/Demo/Models/Seating/250BS.fbx
+- Assets/Resources/Demo/Models/Storage/ST4232.fbx
+- Assets/Resources/Demo/Models/Tables/T2424.fbx
+- Assets/Resources/Demo/Models/Tables/T2413.fbx
+- Assets/Resources/Demo/Models/Storage/ST1836.fbx
+- Assets/Resources/Demo/Models/Storage/ST2424R.fbx
+- Assets/Resources/Demo/Models/Tables/T2448.fbx
+- Assets/Resources/Demo/Models/Tables/T66.fbx
+- Assets/Resources/Demo/Models/Tables/T2430.fbx
 - Assets/Resources/Demo/Models/Seating/250BS-24.fbx
 - Assets/Resources/Demo/Models/Seating/6250BS-24.fbx
 - Assets/Resources/Demo/Models/Seating/6250BS.fbx
+- Assets/Resources/Demo/Models/Tables/T2442.fbx
+- Assets/Resources/Demo/Models/Storage/ST2118.fbx
+- Assets/Resources/Demo/Models/Storage/ST1830.fbx
+- Assets/Resources/Demo/Models/Tables/T33.fbx
+- Assets/Resources/Demo/Models/Storage/ST2424L.fbx
 - Assets/Resources/Demo/Models/Seating/250.fbx
 Dependencies: []
